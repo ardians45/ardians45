@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Ardian%20Setiawan&fontSize=70&animation=fadeIn&fontAlignY=38&desc=UI/UX%20Designer%20%26%20Web%20Developer&descAlignY=62&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Ardian%20Setiawan&fontSize=70&animation=fadeIn" />
 </p>
 
 <!-- Typing SVG -->
@@ -76,12 +76,12 @@ I am a **UI/UX Designer** and **Web Developer** based in Indonesia. I bridge the
 ### 📈 GitHub Ecosystem
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ardians45&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Ardian's Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ardians45&show_icons=true&theme=tokyonight&hide_border=true" alt="Ardian's Stats" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ardians45&theme=tokyonight&hide_border=true" alt="Streak Stats" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardians45&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardians45&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
 </p>
 
 <!-- Contribution Snake -->
